@@ -1,0 +1,18 @@
+title: "Sharing Knowledge - Engenharia de Dados & ML"  
+description: "Resenhas, estudos, artigos e minha jornada rumo a Machine Learning Engineering."
+author: "Paulo Sérgio"
+theme: jekyll-theme-hacker
+
+markdown: kramdown
+highlighter: rouge
+
+# Links sociais (opcional)
+github_username: paulossergiojr
+linkedin_username: paulossergio-pereira-junior
+
+# Config de posts
+permalink: /posts/:title/
+
+# Excluir arquivos do build do GitHub Pages
+exclude:
+  - README.md
