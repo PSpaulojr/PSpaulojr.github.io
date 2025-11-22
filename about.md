@@ -1,10 +1,15 @@
+---
+layout: default
+title: "Sobre mim"
+---
+
 # Sobre mim
 
-Olá! Eu sou **Paulo Sérgio**, engenheiro de dados com experiência em:
+Olá! Eu sou **Paulo Sérgio**, engenheiro de dados com foco em:
 
-- AWS (certificação Cloud Practitioner)
-- Python para pipelines e automações
-- Engenharia, modelagem e arquitetura de dados
-- Estudos em Machine Learning Engineering
+- AWS (certificado)
+- Engenharia, arquitetura e modelagem de dados
+- Python para pipelines
+- Estudos para ML Engineering
 
-Este blog é meu espaço pessoal para documentar minha jornada técnica.
+Este blog é meu espaço pessoal para compartilhar conhecimento.

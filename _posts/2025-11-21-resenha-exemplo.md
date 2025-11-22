@@ -1,4 +1,9 @@
 ---
+layout: post
+title: "Título do post"
+---
+
+---
 title: "Resenha: Artigo Exemplo"
 ---
 
