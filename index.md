@@ -3,10 +3,9 @@ layout: default
 title: "Home"
 ---
 
-# 👋 Bem-vindo ao meu blog!
+# 👋 Welcome to my blog!
 
-Sou engenheiro de dados e estudo para me tornar um grande engenheiro de machine learning.  
-Aqui registro minhas resenhas sobre livros, artigos, papers, além da minha evolução técnica.
+I am a data engineer. Here I share article reviews, book summaries, as well as my technical progress
 
 ## 📝 Últimos Posts
 
