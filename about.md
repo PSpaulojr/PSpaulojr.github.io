@@ -15,6 +15,10 @@ Welcome! This space is the direct result of an urge — an itch, really — to e
 This isn't just a portfolio; it's a living document of my journey. You'll find my unfiltered insights, roadblocks, and triumphs as I navigate the world of curiosity.
 
 # Who Am I?
+<img src="{{ '/assets/img/profile.jpeg' | relative_url }}"
+alt="Paulo Sérgio"
+style="float: right; width: 220px; margin-left: 1rem; margin-bottom: 1rem; border-radius: 8px;">
+
 I am **Paulo Sérgio**, and I am a Data Engineer with a foundational background in Electrical Engineering.
 I am graduated from FEEC/UNICAMP (2016-2021). My journey began with a deep, lifelong passion for mathematics and problem-solving.
 
@@ -33,3 +37,5 @@ You can find the source code for Jekyll at GitHub:
 
 
 [jekyll-organization]: https://github.com/jekyll -->
+
+<div style="clear: both;"></div>
